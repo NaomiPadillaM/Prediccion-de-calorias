@@ -9,4 +9,4 @@ El archivo *Analisisnutrimental.py* contiene el pre-tratamiento necesario de los
 El pdf muestra el análisis de los resultados obtenidos en Notebook.
 
 <img src= "images/regresionlineal.png" width=50% height=50%>
-
+<img src= "images/regresionlinealg.png" width=50% height=50%>
