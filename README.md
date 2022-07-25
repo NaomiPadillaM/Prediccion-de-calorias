@@ -7,3 +7,6 @@ La base de datos *nutrimental.xlsx* se generó de manera manual, siendo una bit�
 El archivo *Analisisnutrimental.py* contiene el pre-tratamiento necesario de los datos y la implementación de los modelos mencionados y sus optimizaciones. 
 
 El pdf muestra el análisis de los resultados obtenidos en Notebook.
+
+![](images/regresionlineal.png)
+![](images/regresionlinealg.png)
